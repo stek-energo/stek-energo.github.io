@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /page2726164.html
+Disallow: /page2726203.html
+Disallow: /page2729011.html
+Disallow:
+Sitemap: http://stek-energo.ru/sitemap.xml
+Host: stek-energo.ru

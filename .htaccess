@@ -1,0 +1,67 @@
+ErrorDocument 403 /page2729011.html
+ErrorDocument 404 /page2729011.html
+
+DirectoryIndex index.html
+
+RewriteEngine On
+
+RewriteRule ^glavnaya$ page2726227.html [NC]
+RewriteRule ^glavnaya/$ page2726227.html [NC]
+
+RewriteRule ^o_kompanii$ page2726288.html [NC]
+RewriteRule ^o_kompanii/$ page2726288.html [NC]
+
+RewriteRule ^kontakty$ page2726300.html [NC]
+RewriteRule ^kontakty/$ page2726300.html [NC]
+
+RewriteRule ^uslugi$ page2726315.html [NC]
+RewriteRule ^uslugi/$ page2726315.html [NC]
+
+RewriteRule ^obekty_i_zakazchiki$ page2726335.html [NC]
+RewriteRule ^obekty_i_zakazchiki/$ page2726335.html [NC]
+
+RewriteRule ^vakansii$ page2726354.html [NC]
+RewriteRule ^vakansii/$ page2726354.html [NC]
+
+RewriteRule ^nashi_raboty$ page2726378.html [NC]
+RewriteRule ^nashi_raboty/$ page2726378.html [NC]
+
+RewriteRule ^rekonstrukciya_vl$ page2728743.html [NC]
+RewriteRule ^rekonstrukciya_vl/$ page2728743.html [NC]
+
+RewriteRule ^rekonstrukciya_tp$ page2728748.html [NC]
+RewriteRule ^rekonstrukciya_tp/$ page2728748.html [NC]
+
+RewriteRule ^zamena_kl$ page2728754.html [NC]
+RewriteRule ^zamena_kl/$ page2728754.html [NC]
+
+RewriteRule ^zamena_tmg$ page2728763.html [NC]
+RewriteRule ^zamena_tmg/$ page2728763.html [NC]
+
+RewriteRule ^zamena_ktp$ page2728770.html [NC]
+RewriteRule ^zamena_ktp/$ page2728770.html [NC]
+
+RewriteRule ^stroitelstvo_vl$ page2728775.html [NC]
+RewriteRule ^stroitelstvo_vl/$ page2728775.html [NC]
+
+RewriteRule ^stroitelstvo_kl$ page2728780.html [NC]
+RewriteRule ^stroitelstvo_kl/$ page2728780.html [NC]
+
+RewriteRule ^stroitelstvo_tp$ page2728782.html [NC]
+RewriteRule ^stroitelstvo_tp/$ page2728782.html [NC]
+
+RewriteRule ^leph$ page2728785.html [NC]
+RewriteRule ^leph/$ page2728785.html [NC]
+
+RewriteRule ^proektirovanie_kabelnyh_lehp$ page2728800.html [NC]
+RewriteRule ^proektirovanie_kabelnyh_lehp/$ page2728800.html [NC]
+
+RewriteRule ^proektirovanie_vozdushnyh_lehp$ page2728801.html [NC]
+RewriteRule ^proektirovanie_vozdushnyh_lehp/$ page2728801.html [NC]
+
+RewriteRule ^proektirovanie_raspredelitelnyh_ustrojstv$ page2728804.html [NC]
+RewriteRule ^proektirovanie_raspredelitelnyh_ustrojstv/$ page2728804.html [NC]
+
+RewriteRule ^proektirovanie_podstancij$ page2728808.html [NC]
+RewriteRule ^proektirovanie_podstancij/$ page2728808.html [NC]
+
